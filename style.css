@@ -1,0 +1,66 @@
+#logo {
+    margin-left: 20px;
+}
+.col-sm-6 {
+    text-align: left;
+}
+
+.col-sm-6 h6 {
+    color: grey;
+    margin-top: 20px;
+}
+
+.col-sm-6 h1 {
+    margin-bottom: 20px;
+}
+
+.form-select {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.price {
+    display: flex;
+    align-items: center;
+    margin-bottom: 20px;
+}
+
+.price button {
+    background-color: #1f1f1f;
+    margin-left: 20px;
+    border-style: none;
+}
+.price button:hover {
+    background-color: #707072;
+}
+.price button:active {
+    background-color: #ffffff;
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media screen and (min-width: 720px) {
+  .container {
+    margin-top: 6.25rem;
+  }
+}
