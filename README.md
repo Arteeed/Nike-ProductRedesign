@@ -7,7 +7,7 @@ Tried to re-design the nike product page with bootstrap. Modifying the existing 
 
 ## Demo
 
-![Image](https://github.com/user-attachments/assets/f7eab247-5944-4a24-a86e-d8e7cd5a305b)
+![Image](https://github.com/user-attachments/assets/ad12719e-5cc2-4bb1-8309-93bbde336125)
 
 
 ## Tech Stack
