@@ -3,9 +3,11 @@
 
 Tried to re-design the nike product page with bootstrap. Modifying the existing components very fun for a small project. 
 
+[All images used are from Nike's official website.]
+
 ## Demo
 
-https://github.com/user-attachments/assets/084a7feb-afd5-4017-ba98-38c391ea654c
+![Image](https://github.com/user-attachments/assets/f7eab247-5944-4a24-a86e-d8e7cd5a305b)
 
 
 ## Tech Stack
