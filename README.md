@@ -3,6 +3,8 @@
 
 Tried to re-design the nike product page with bootstrap. Modifying the existing components very fun for a small project. 
 
+-learned that this is a bad approach to using Bootstrap.
+
 [All images used are from Nike's official website.]
 
 ## Demo
